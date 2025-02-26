@@ -1,5 +1,9 @@
 # GittoDitto - GitHub Repository Downloader
-![GittoDitto Screenshot](img/747px-132Ditto_Ranger3.png.webp)
+
+<p align="center">
+  <img src="img/747px-132Ditto_Ranger3.png.webp" alt="GittoDitto in Action" width="300">
+</p>   
+
 
 GittoDitto.sh is a **Bash script** that allows you to **search and clone** open-source repositories from GitHub based on:
 - **Keywords** (e.g., "machine learning", "data science")
