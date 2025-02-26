@@ -56,3 +56,7 @@ Enter release year (YYYY): 2024
 Enter programming language (optional, press Enter to skip): python
 Enter license type (optional, e.g., MIT, Apache-2.0, GPL-3.0, press Enter to skip): MIT
 ```
+
+## License
+The bash script has MIT license and any developing ideas are always wished! 
+
